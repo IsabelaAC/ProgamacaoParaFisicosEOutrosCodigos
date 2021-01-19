@@ -1,2 +1,2 @@
 # APRENDIZADOS EM  GERAL 
-Códigos  desenvolvidos por mim durante o processo de aprendizado com programação dev
+Códigos e projetos realizados durante o aprendizado  constante no mundo da programação.
